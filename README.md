@@ -9,3 +9,5 @@ Una aplicación web interactiva para predecir precios de vehículos Mercedes uti
 - Análisis exploratorio de datos (EDA) incluido
 - Modelo preentrenado listo para usar
 - Preprocesamiento automático de datos
+
+*SE RECOMIENDA QUE EL USUARIO TENGA EL NAVEGADOR EN MODO OSCURO PARA UNA MEJOR EXPERIENCIA*
